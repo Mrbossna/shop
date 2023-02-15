@@ -5,6 +5,12 @@
             "version": "1.0.0",
             "id": "110.169.157.118",
             "keys": "MRB_Shop"
+        },
+        {
+            "name": "SS",
+            "version": "1.0.0",
+            "id": "147.50.252.76",
+            "keys": "MRB_Shop"
         }
     ]
 }
