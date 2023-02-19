@@ -29,6 +29,12 @@
             "version": "1.0.1",
             "id": "140.99.96.104",
             "keys": "MRB_Shop"
+        },
+        {
+            "name": "SS",
+            "version": "1.0.1",
+            "id": "103.131.200.64",
+            "keys": "MRB_Shop"
         }
     ]
 }
