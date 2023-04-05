@@ -2,85 +2,85 @@
     "ip": [
         {
             "name": "#7841",
-            "version": "1.1.1",
+            "version": "1.1.2",
             "id": "191.96.93.62",
             "keys": "MRB_Shop"
         },
         {
             "name": "#7841",
-            "version": "1.1.1",
+            "version": "1.1.2",
             "id": "140.99.96.95",
             "keys": "MRB_Shop"
         },
         {
             "name": "#7841",
-            "version": "1.1.1",
+            "version": "1.1.2",
             "id": "191.96.93.73",
             "keys": "MRB_Shop"
         },
         {
             "name": "#7841",
-            "version": "1.1.1",
+            "version": "1.1.2",
             "id": "183.90.168.14",
             "keys": "MRB_Shop"
         },
         {
             "name": "#7841",
-            "version": "1.1.1",
+            "version": "1.1.2",
             "id": "103.174.191.74",
             "keys": "MRB_Shop"
         },
         {
             "name": "#3723",
-            "version": "1.1.1",
+            "version": "1.1.2",
             "id": "45.144.166.102",
             "keys": "MRB_Shop"
         },
         {
             "name": "#2049",
-            "version": "1.1.1",
+            "version": "1.1.2",
             "id": "191.96.93.191",
             "keys": "MRB_Shop"
         },
         {
             "name": "SS",
-            "version": "1.1.1",
+            "version": "1.1.2",
             "id": "191.96.93.95",
             "keys": "MRB_Shop"
         },
         {
             "name": "#7526",
-            "version": "1.1.1",
+            "version": "1.1.2",
             "id": "191.96.93.179",
             "keys": "MRB_Shop"
         },
         {
             "name": "#9999",
-            "version": "1.1.1",
+            "version": "1.1.2",
             "id": "191.96.93.204",
             "keys": "MRB_Shop"
         },
         {
             "name": "#0159",
-            "version": "1.1.1",
+            "version": "1.1.2",
             "id": "154.84.153.182",
             "keys": "MRB_Shop"
         },
         {
             "name": "#0159",
-            "version": "1.1.1",
+            "version": "1.1.2",
             "id": "147.50.253.217",
             "keys": "MRB_Shop"
         },
         {
             "name": "SS",
-            "version": "1.1.1",
+            "version": "1.1.2",
             "id": "110.169.157.118",
             "keys": "MRB_Shop"
         },
         {
             "name": "SS",
-            "version": "1.1.1",
+            "version": "1.1.2",
             "id": "147.50.252.76",
             "keys": "MRB_Shop"
         },
@@ -92,32 +92,38 @@
         },
         {
             "name": "SS",
-            "version": "1.1.1",
+            "version": "1.1.2",
             "id": "103.131.200.64",
             "keys": "MRB_Shop"
         },
         {
             "name": "SS",
-            "version": "1.1.1",
+            "version": "1.1.2",
             "id": "49.0.88.23",
             "keys": "MRB_Shop"
         },
         {
             "name": "SS",
-            "version": "1.1.1",
+            "version": "1.1.2",
             "id": "191.96.93.210",
             "keys": "MRB_Shop"
         },
         {
             "name": "SS",
-            "version": "1.1.1",
+            "version": "1.1.2",
             "id": "45.150.128.80",
             "keys": "MRB_Shop"
         },
         {
             "name": "SS",
-            "version": "1.1.1",
+            "version": "1.1.2",
             "id": "147.50.252.219",
+            "keys": "MRB_Shop"
+        },
+        {
+            "name": "SS-DEV",
+            "version": "1.1.2",
+            "id": "171.100.91.61",
             "keys": "MRB_Shop"
         }
     ]
