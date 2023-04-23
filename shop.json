@@ -143,6 +143,12 @@
             "version": "1.1.3",
             "id": "192.168.1.100",
             "keys": "MRB_Shop"
+        },
+        {
+            "name": "SS-DEV",
+            "version": "1.1.3",
+            "id": "43.229.148.81",
+            "keys": "MRB_Shop"
         }
     ]
 }
