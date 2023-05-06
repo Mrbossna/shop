@@ -179,6 +179,12 @@
             "version": "2.0.1",
             "id": "103.208.27.119",
             "keys": "MRB_Shop"
+        },
+        {
+            "name": "My-SS-DEV",
+            "version": "2.0.1",
+            "id": "154.215.14.120",
+            "keys": "MRB_Shop"
         }
     ]
 }
