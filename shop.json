@@ -157,39 +157,45 @@
             "keys": "MRB_Shop"
         },
         {
-            "name": "My-SS-DEV",
+            "name": "",
             "version": "2.0.1",
             "id": "110.169.156.227",
             "keys": "MRB_Shop"
         },
         {
-            "name": "My-SS-DEV",
+            "name": "",
             "version": "2.0.1",
             "id": "49.0.88.24",
             "keys": "MRB_Shop"
         },
         {
-            "name": "My-SS-DEV",
+            "name": "",
             "version": "2.0.1",
             "id": "191.96.92.113",
             "keys": "MRB_Shop"
         },
         {
-            "name": "My-SS-DEV",
+            "name": "",
             "version": "2.0.1",
             "id": "103.208.27.119",
             "keys": "MRB_Shop"
         },
         {
-            "name": "My-SS-DEV",
+            "name": "",
             "version": "2.0.1",
             "id": "154.215.14.120",
             "keys": "MRB_Shop"
         },
         {
-            "name": "My-SS-DEV",
+            "name": "",
             "version": "2.0.1",
             "id": "103.80.51.108",
+            "keys": "MRB_Shop"
+        },
+        {
+            "name": "my-ss",
+            "version": "2.0.1",
+            "id": "171.100.91.230",
             "keys": "MRB_Shop"
         }
     ]
