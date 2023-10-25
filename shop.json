@@ -2,6 +2,12 @@
   "ip": [
     {
       "name": "Ice-JOB",
+      "id": "45.154.24.224",
+      "keys": "MRB:GS5112T",
+      "version": "2.1.4"
+    },
+    {
+      "name": "Ice-JOB",
       "id": "103.22.182.102",
       "keys": "MRB:GS5112T",
       "version": "2.1.4"
