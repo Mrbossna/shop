@@ -3,6 +3,12 @@
   "ip": [
     {
       "name": "SS-DEV",
+      "id": "45.141.26.105",
+      "version": "3.1.0",
+      "keys": "MRB:GS5112T"
+    },
+    {
+      "name": "SS-DEV",
       "id": "212.80.214.179",
       "version": "3.1.0",
       "keys": "MRB:GS5112T"
